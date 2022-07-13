@@ -18,9 +18,9 @@ name: Ahmed Ibreljic
 organizations:
 - name: AIE Propulsion Systems
   url: "https://www.AIEPS.ai"
-- name: Ciate
+- name: Ciate Startup
   url: "www.ciate.org"
-- name: University of Massachusetts Boston 
+- name: UMass Boston 
   url: "http://www.umb.edu/"
 role: Student
 social:
