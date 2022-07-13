@@ -1,43 +1,38 @@
 ---
 authors:
 - admin
-bio: Neuroscienctist, imaging the anesthetized brain.
+bio: Electrical Engineer, creating defense systems.
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "nsirmpilatze@dpz.eu"
+  - course: Bachelors of Science in Electrical Engineering
+    GPA: 3.67 
+    institution: University of Massachusetts Boston
+    year: Sep 2020 - May 2023
+email: "Ahmed.Ibreljic001@umb.edu"
 interests:
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open science
-name: Nikoloz Sirmpilatze
+- CAD/PCB Design
+- Defense Systems
+- Rockets/Drones
+- AI Software
+name: Ahmed Ibreljic
 organizations:
-- name: German Primate Center
-  url: "https://www.dpz.eu"
-- name: IMPRS for Neurosciences
-  url: "https://www.gpneuro.uni-goettingen.de/"
-- name: University of Göttingen 
-  url: "http://www.uni-goettingen.de/"
-role: Postdoctoral Researcher
+- name: AIE Propulsion Systems
+  url: "https://www.AIEPS.ai"
+- name: Ciate
+  url: "www.ciate.org"
+- name: University of Massachusetts Boston 
+  url: "http://www.umb.edu/"
+role: Student
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/niksirbi
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/niksirbi
+  link: https://github.com/AhmedIbreljic
 superuser: true
 user_groups:
 - Researchers
