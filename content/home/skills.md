@@ -18,18 +18,18 @@ subtitle = ""
   icon = "code"
   icon_pack = "fa"
   name = "Programming"
-  description = "**Python**, Bash, R, git, LaTeX"
+  description = "**Python**, Java, C, Swift, MATLAB, LaTeX"
   
 [[feature]]
-  icon = "brain"
+  icon = "Software"
   icon_pack = "fa"
-  name = "Neuroimaging software"
-  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer, Connectome Workbench"  
+  name = "EE software"
+  description = "**KiCAD**, **CAD**, LTSpice, MATLAB"  
   
 [[feature]]
-  icon = "language"
+  icon = "rocket"
   icon_pack = "fa"
-  name = "Languages"
-  description = "**Greek**, **Georgian**, **English**, German, Russian"
+  name = "Projects"
+  description = "**Drones**, **Rockets**, Low-Pass Filters, High-Pass Filters"
 
 +++
