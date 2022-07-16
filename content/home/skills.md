@@ -30,6 +30,6 @@ subtitle = ""
   icon = "rocket"
   icon_pack = "fa"
   name = "Projects"
-  description = "**Drones**, **Rockets**, Low-Pass Filters, High-Pass Filters"
+  description = "**Drones**, **Robotics**, **Rockets**, Low-Pass Filters, High-Pass Filters"
 
 +++
