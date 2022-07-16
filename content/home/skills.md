@@ -21,7 +21,7 @@ subtitle = ""
   description = "**Python**, Java, C, Swift, MATLAB, LaTeX"
   
 [[feature]]
-  icon = "Tools"
+  icon = "program"
   icon_pack = "fa"
   name = "EE Software"
   description = "**KiCAD**, **CAD**, LTSpice, MATLAB"  
