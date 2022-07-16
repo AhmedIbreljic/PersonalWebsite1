@@ -22,7 +22,7 @@ links:
   name: Twitter
   url: https://twitter.com/afids_project
 slides:
-summary: "A standardized framework for evaluating anatomical correspondence between primate brains"
+summary: "Assembling and Testing Active Band-Pass Filters"
 tags:
 - collaborative
 - include
