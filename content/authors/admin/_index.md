@@ -19,7 +19,7 @@ organizations:
 - name: AIE Propulsion Systems
   url: "https://www.AIEPS.ai"
 - name: Ciate Startup
-  url: "https://www.ciate.org"
+  url: "http://www.ciate.org"
 - name: UMass Boston 
   url: "http://www.umb.edu/"
 role: Student
