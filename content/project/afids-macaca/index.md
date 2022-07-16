@@ -26,7 +26,7 @@ summary: "Assembling and Testing Active Band-Pass Filters"
 tags:
 - collaborative
 - include
-title: "AFIDs-macaca"
+title: "Band-Pass Filters"
 url_code: ""
 url_pdf: ""
 url_slides: ""
