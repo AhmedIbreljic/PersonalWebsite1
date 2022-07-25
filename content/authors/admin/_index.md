@@ -13,7 +13,7 @@ interests:
 - CAD/PCB Design
 - Defense Systems
 - Rockets/Drones
-- AI Software
+- TensorFlow
 name: Ahmed Ibreljic
 organizations:
 - name: AIE Propulsion Systems
