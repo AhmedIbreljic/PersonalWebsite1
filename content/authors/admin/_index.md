@@ -39,5 +39,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Axhmed Ibxreljic, a student turned engineer. Currently, I'm studying electrical engineering at the [University of Massachusetts Boston](https://www.umb.edu/) in Dorchester, Massachusetts. I study the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Imaging (fMRI) and in vivo 2‐photon calcium imaging. I am particularly interested in the neural activity patterns that arise across various depths of anesthesia, either spontaneously or in reaction to sensory stimulation. In parallel to my research, I support efforts for more open, collaborative, and reproducible science. In my free time I enjoy dancing to swing music and playing the saxophone.
-
+I'm Axhmed Ibxreljic, a student turned engineer. Currently, I'm studying electrical engineering at the [University of Massachusetts Boston](https://www.umb.edu/) in Dorchester, Massachusetts. I study active low-pass and high-pass band pass filters testing them within LTSpice and MATLAB. I am particularly interested in defense systems as most of projects demonstrate. In parallel to my research, I support efforts for more AI within higher education. 
