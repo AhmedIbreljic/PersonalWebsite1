@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Axhmed Ibxreljic, a student turned engineer. Currently, I'm studying electrical engineering at the [University of Massachusetts Boston](https://www.umb.edu/) in Dorchester, Massachusetts. I study active low-pass and high-pass band pass filters testing them within LTSpice and MATLAB. I am particularly interested in defense systems as most of projects demonstrate. In parallel to my research, I support efforts for more AI within higher education. 
+I'm Axhmed Ibxreljic, a student turned engineer. Currently, I'm studying electrical engineering at the [University of Massachusetts Boston](https://www.umb.edu/) in Dorchester, Massachusetts. I study active low-pass and high-pass band pass filters testing them within LTSpice and MATLAB. I am particularly interested in defense systems as most of projects and research are related to drones, VTOLs, and rockets. In parallel to my research, I support efforts for more AI within higher education and fly thrust vectored modelled rockets.
