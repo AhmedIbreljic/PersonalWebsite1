@@ -10,15 +10,15 @@ education:
     year: Sep 2020 - May 2023
 email: "Ahmed.Ibreljic001@umb.edu"
 interests:
-- CAD/PCB Design
-- Defense Systems
-- Rockets/Drones
-- TensorFlow
+- Signal and Image Processing 
+- Ramjet Engines TCV Rocketry
+- III-V semiconductor
+- GOAP Neural Networks
 name: Ahmed Ibreljic
 organizations:
 - name: AIE Propulsion Systems
-  url: "https://www.AIEPS.ai"
-- name: Ciate Startup
+  url: "https://www.PAIS.ai"
+- name: Ciate - AI
   url: "http://www.ciate.org"
 - name: UMass Boston 
   url: "http://www.umb.edu/"
