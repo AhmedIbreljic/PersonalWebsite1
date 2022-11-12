@@ -12,7 +12,7 @@ email: "Ahmed.Ibreljic001@umb.edu"
 interests:
 - Signal and Image Processing 
 - Ramjet Engines TVC Rocketry
-- III-V semiconductor
+- III-V Semiconductors
 - GOAP Neural Networks
 name: Ahmed Ibreljic
 organizations:
